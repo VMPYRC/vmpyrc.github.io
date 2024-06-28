@@ -2,5 +2,3 @@
 
 + [Source Code](https://github.com/VMPYRC/VMPYRC.github.io/)
 + [Venture](https://vmpyrc.github.io/Venture/) - Idle Incremental Game (Incomplete)
-+ [Notes](https://vmpyrc.github.io/Notes/) - My notes (Updated)
-+ [GamingNotes](https://github.com/VMPYRC/GamingNotes) - My gaming notes (Updated)
